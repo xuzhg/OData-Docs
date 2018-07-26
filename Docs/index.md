@@ -1,1 +1,1 @@
-# Welcome to OData-Docs!
+# Welcome to OData documentation! 
